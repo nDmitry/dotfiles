@@ -1,0 +1,10 @@
+[user]
+	name = Dmitry Nikitenko
+	email = dima.nikitenko@gmail.com
+[core]
+	excludesfile = /home/dmitry/.gitignore_global
+	autocrlf = input
+	
+[push]
+	# Make `git push` push relevant annotated tags when pushing branches out.
+	followTags = true
